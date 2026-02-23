@@ -26,7 +26,6 @@ Model evaluation
 
     EEG_FINAL.ipynb      # Main Jupyter Notebook
     README.md            # Project documentation
-    dataset/             # (Optional) Dataset folder
     models/              # (Optional) Saved models
 
 ------------------------------------------------------------------------
@@ -85,13 +84,13 @@ notebook.
 1.  Clone the repository:
 
     ``` bash
-    git clone https://github.com/your-username/your-repo-name.git
+    git clone https://github.com/Vardhan2197/Alcohol_Prediction_using_EEG_Signals.git
     ```
 
 2.  Navigate to the project folder:
 
     ``` bash
-    cd your-repo-name
+    cd Alcohol_Prediction_using_EEG_Signals
     ```
 
 3.  Install dependencies:
